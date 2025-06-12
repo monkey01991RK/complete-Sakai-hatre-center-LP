@@ -1,0 +1,1520 @@
+@media screen and (max-width: 1900px) {
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 14%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 10%;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1830px) {
+
+    .slider-content {
+        max-width: 62%;
+        width: 100%;
+    }
+
+    .PhotoGroup {
+        margin: 80px 0px 0px 0px;
+    }
+
+    .txtContent1 {
+        max-width: 96%;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 15%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 13%;
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 1600px) {
+    .txtContent1>h2 {
+        font-size: 66px;
+    }
+
+    .photo2 {
+        margin: 30px 80px 0 80px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 20%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 19%;
+        align-items: center;
+    }
+}
+
+
+@media screen and (max-width: 1450px) {
+    .mainPhoto1 {
+        margin: 75px 0 0 220px;
+    }
+
+    .photo2 {
+        margin: 30px 40px 0 40px;
+    }
+
+    .PhotoGroup {
+        margin: 70px 0px 0px 0px;
+    }
+
+    .mainPhoto1 {
+        margin: 78px 0 0 314px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 21%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 14%;
+        align-items: center;
+    }
+}
+
+@media (max-width: 1440px) {
+    .mainPhoto1 {
+        margin: 75px 0 0 200px;
+    }
+    .slider-content {
+        max-width: 64%;
+        width: 100%;
+    }
+    .txtContent1 {
+        max-width: 100%;
+    }
+    .txtContent1>h2 {
+        font-size: 62px;
+    }
+
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 50px;
+    }
+
+    .card img {
+        width: 80px;
+        height: 50px;
+    }
+
+    .card h2 {
+        font-size: 20px;
+    }
+
+    .card p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 1370px) {
+    .txtContent1>h2 {
+        font-size: 60px;
+    }
+
+    .txtContent1 {
+        max-width: 100%;
+    }
+
+    .slider-content {
+        max-width: 56%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 37%;
+    }
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 50px;
+    }
+
+    .mainPhoto1 {
+        margin: 75px 0 0 180px;
+    }
+
+    .photo2 {
+        margin: 20px 20px 0 20px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 21%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 9%;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .txtContent1>h2 {
+        font-size: 60px;
+        margin: 90px 0px 40px 0px;
+    }
+    .slider-content {
+        max-width: 56%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 37%;
+    }
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 40px;
+    }
+
+    .mainPhoto1 {
+        margin: 51px 0 0 126px;
+    }
+
+    .PhotoGroup {
+        margin: 60px 0px 0px 0px;
+    }
+
+    .photo2 {
+        margin: 20px 20px 0 20px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 23%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 9%;
+        align-items: center;
+    }
+
+}
+
+@media screen and (max-width: 1250px) {
+    .schedule-part {
+        display: none;
+    }
+
+    .txtContent1>h2 {
+        font-size: 54px;
+        margin: 60px 0px 30px 0px;
+    }
+    .slider-content {
+        max-width: 62%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 37%;
+    }
+    .txtContent1 {
+        max-width: 100%;
+    }
+
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 40px;
+    }
+
+    .imgContent {
+        margin: 0 0 0 0;
+    }
+
+    .PhotoGroup {
+        margin: 60px 0px 0px 0px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 25%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 12%;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1132px) {
+    .c-link-button {
+        padding: 10px 20px;
+        width: 28%;
+    }
+   
+
+    .txtContent2 {
+        font-size: 12px;
+    }
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 12%;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1110px) {
+  
+    .slider-content {
+        max-width: 64%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 30%;
+        margin: 10px 0 0 0;
+    }
+    
+    .txtContent1>h2 {
+        margin: 60px 0px 20px 0px;
+    }
+
+    .PhotoGroup {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .imgContent {
+        width: auto;
+        max-width: calc(100% - 10px);
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 30%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 12%;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .txtContent1>h2 {
+        font-size: 44px;
+    }
+    .txtContent1 {
+        max-width: 100%;
+    }
+    .slider-content {
+        max-width: 64%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 30%;
+        margin: 41px 0 0 0;
+    }
+
+    .imgContent {
+        max-width: calc(100% - 3px);
+    }
+
+    .photo .img1 {
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        max-width: 78%;
+        width: 100%;
+
+    }
+
+    .photo2 .img2 {
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        max-width: 78%;
+        width: 100%;
+    }
+
+    .photo3 .img3 {
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        max-width: 78%;
+        width: 100%;
+    }
+
+    /* ============================ */
+
+    .intoduceTitle {
+        margin: 67px 0 88px 0;
+    }
+
+    .doctors-intro {
+        font-size: 39px;
+    }
+
+    /* ========================= */
+
+    .introduce {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .introImg_L .heard-img2 {
+        margin: 0 0 30px 0;
+    }
+
+    .introImg_L .heard-img1,
+    .heard-img2,
+    .introImg_R .r_img1,
+    .r_img2 {
+        margin: 0 0 30px 0;
+    }
+
+    .introImg_R .r_img1 {
+        max-width: 90%;
+        width: 100%;
+    }
+
+    .introI_M .m_img {
+        max-width: 90%;
+        width: 45%;
+    }
+
+    .introImg_L,
+    .introImg_R,
+    .introI_M {
+        flex: 1 1 100%;
+        max-width: 90%;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .svg_M_up,
+    .svg_L1,
+    .intro_M_svg,
+    .r_firstSvg,
+    .r_img2_svg {
+        display: none;
+    }
+
+    /* ==========/* card part ============ */
+    .card {
+        width: 90%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 20px;
+    }
+
+    .card img {
+        width: 80px;
+        height: 50px;
+    }
+
+    .card h2 {
+        font-size: 20px;
+    }
+
+    .card p {
+        font-size: 18px;
+    }
+
+    .card {
+        width: 90%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+        padding: 20px;
+    }
+
+    .card img {
+        width: 80%;
+        height: 500px;
+    }
+    .card_img1,.card_img2, .card_img3, .card_img4, .card_img5{
+        width: 100%;
+    }
+    .card h2 {
+        font-size: 20px;
+    }
+
+    .card p {
+        font-size: 18px;
+    }
+
+    /*  Responsive Design for Tablet and Mobile */
+    .qa-section {
+        padding: 140px 0px 50px 0;
+      }
+    .qa-box {
+        flex-direction: column;
+    }
+
+    .qa-left,
+    .qa-right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .qa-question{
+        margin-bottom: 0px;
+    }
+    .qa-question,
+    .qa-answer {
+        font-size: 16px;
+    }
+
+    .qa-left img,
+    .qa-right img {
+        width: 40px;
+        margin-right: 10px;
+    }
+
+    /* map */
+    .access{
+        padding: 100px 0px 0px 0px;
+    }
+    .accessContent-header .blank {
+        margin: 15px 8px 0px 0px;
+        width: 98px;
+        max-width: calc(100% - 22px);
+    }
+
+    .accessContent-header .belowBlank {
+        margin: 15px 0px 0px 5px;
+        width: 98px;
+        max-width: calc(100% - 22px);
+    }
+
+    .accessContent-header .hospitalName {
+        font-size: 36px;
+    }
+    
+    .location {
+        max-width: 100%;
+        font-size: 15px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 998px) {
+
+    .txtContent1>h2 {
+        margin: 60px 0px 30px 0px;
+    }
+
+    .txtContent1 {
+        max-width: 100%;
+    }
+    .slider-content {
+        max-width: 60%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 30%;
+        margin: 41px 0 0 0;
+    }
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 36px;
+    }
+
+    .photo2 {
+        margin: 20px 4px 0 4px;
+    }
+
+    .photo3 {
+        margin-top: 0px;
+    }
+
+    .cardHead {
+        margin: 80px 0;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 33%;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 13%;
+        align-items: center;
+    }
+
+    .t-top-information__inner {
+        padding: 60px 68px 64px 55px;
+    }
+
+    .t-top-information__content {
+        padding: 68px 50px;
+    }
+}
+
+@media screen and (max-width: 878px) {
+    .txtContent1>h2 {
+        font-size: 40px;
+    }
+
+    .mainPhoto1 {
+        margin: 50px 0 0 35px;
+    }
+
+    .txtContent1_ {
+        max-width: 62%;
+    }
+
+    .txtContent1>h2 {
+        margin: 40px 0px 20px 0px;
+    }
+
+    .txtContent2 {
+        font-size: 16px;
+    }
+
+    .PhotoGroup {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .imgContent {
+        max-width: calc(100% - 3px);
+    }
+
+    .photo,
+    .photo2,
+    .photo3 {
+        max-width: 30%;
+    }
+
+    .photo .photoTxt,
+    .photo2 .photoTxt,
+    .photo3 .photoTxt {
+        font-size: 16px;
+    }
+
+    .c-link-button {
+        padding: 10px 20px;
+        width: 20%;
+    }
+
+    .c-link-button span {
+        display: none;
+    }
+
+    .c-link-button i {
+        font-size: 20px;
+        color: #fff;
+        margin: 2px 10px 0 37%;
+    }
+
+    .t-top-information__inner {
+        padding: 50px 58px 54px 45px;
+    }
+
+    .t-top-information__content {
+        padding: 68px 50px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .mainPhoto,
+    .mainPhoto1,
+    .slider-content {
+        margin: 0 0 0 0;
+    }
+
+    .txtContent1 {
+        max-width: 100%;
+    }
+
+    .txtContent1>h2 {
+        font-size: 31px;
+    }
+
+    .PhotoGroup {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .photo,
+    .photo2,
+    .photo3 {
+        max-width: 29%;
+    }
+    .swiper {
+     margin: 0 0 0 0;
+    }
+    .doctors-intro,
+    .intoduceTitle,
+    .cardHead {
+        font-size: 28px;
+    }
+
+    .intoduceTitle {
+        margin: 78px 0 50px 0;
+    }
+
+    .introImg_L .heard-img1 {
+        max-width: 90%;
+        width: 100%;
+    }
+
+    .t-top-information__container {
+        padding: 0 16px;
+    }
+
+    .t-top-information__title {
+        font-size: 28px;
+    }
+
+    .c-box__title {
+        font-size: 18px;
+    }
+
+    .t-information-treatment,
+    .c-box__description {
+        font-size: 14px;
+    }
+
+    .t-top-information__object.pc {
+        display: none;
+    }
+
+    /* ============================ */
+
+    .lp-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .lp-left,
+    .lp-right {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+
+    .lp-left li,
+    .lp-right p {
+        font-size: 16px;
+    }
+
+    .lp-title {
+        font-size: 24px;
+    }
+
+    .card img {
+        width: 80%;
+        height: 300px;
+    }
+    .card_img1,.card_img2, .card_img3, .card_img4, .card_img5{
+        width: 100%;
+    }
+
+    /* ============================== */
+    .qa-left,
+    .qa-right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .qa-question,
+    .qa-answer {
+        font-size: 16px;
+    }
+
+    .qa-left img,
+    .qa-right img {
+        width: 40px;
+        margin-right: 10px;
+    }
+
+    /* ================================ */
+    .access {
+        padding: 100px 5%;
+        width: 90%;
+    }
+
+    .accessContent-header {
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .smallTitle {
+        width: 100%;
+    }
+
+    .accessList {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .accessList li {
+        margin: 10px;
+    }
+
+    .location {
+        width: 100%;
+    }
+
+    .access {
+        max-width: 94%;
+        padding: 100px 0 0 0;
+    }
+
+    .accessContent-header .hospitalName {
+        font-size:26px;
+    }
+    .accessInfor{
+        max-width: 64%;
+    }
+    .lp-content{
+        padding:20px 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .lp-left{
+        max-width: 30%;
+    }
+    .lp-left li{
+        margin-bottom: 22px;
+    }
+    .lp-right{
+        max-width: 68%;
+    }
+    .lp-right p, .lp-left li{
+        font-size: 16px;
+    }
+
+    .location {
+        max-width: 100%;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .nav-infor .inforPhone {
+        display: none;
+    }
+
+    .nav-infor .inforTxt2 {
+        display: none;
+    }
+
+    .nav-contanier {
+        padding: 0px 20px 35px 0px;
+    }
+
+    .intoduceTitle {
+        margin: 150px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .nav-infor .assceeMethod {
+        display: none;
+    }
+
+    .header {
+        margin: 70px 0px 0px 0px;
+    }
+
+    #header {
+        box-shadow: none;
+        display: flex;
+        flex: none;
+        height: auto;
+        left: 0px;
+        margin: 80px 0px 0px 0px;
+        right: 0px;
+        top: -80px;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #topbar {
+
+        height: 70px;
+    }
+
+    .nav-contanier {
+        flex: none;
+        width: 92%;
+        max-width: 100%;
+        padding: 0px 0px 0px 0px;
+
+    }
+
+    .nav-brand {
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        width: auto;
+        max-width: calc(100% - 120px);
+    }
+
+    .nav-brand img {
+        flex: none;
+        width: 50px;
+        max-width: 100%;
+    }
+
+    .nav-brand .txt_h2 {
+        font-size: 16px;
+    }
+
+    .nav-brand .txt_p {
+        font-size: 16px;
+    }
+
+    .nav-schedule .nav-infor {
+        align-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        margin: 0 0 0 0;
+    }
+
+    .nav-infor .inforTxt1 {
+        height: auto;
+        width: 60%;
+        display: flex;
+        flex: none;
+        height: 45px;
+        margin: 0px 8px 0px 0px;
+        width: 45px;
+        max-width: calc(100% - 8px);
+    }
+    .inforTxt1 .inforTex1-p {
+        font-size: 12px;
+        line-height: 2;
+    }
+
+    .menuBtn {
+        flex: none;
+        height: 50px;
+        margin: 0px 0px 0px 0px;
+        width: 50px;
+        max-width: 100%;
+    }
+
+    .menuBtn .menuTxt {
+        font-family: var(--s-font-f7830e20);
+        font-size: 10px;
+        letter-spacing: 0.08em;
+        margin: 4px 0px 2px 0px;
+        max-width: 100%;
+    }
+
+    .menuBtn .menuIcon {
+        display: flex;
+        font-size: 26px;
+        padding: 0px 0px 3px 0px;
+    }
+
+    .intoduceTitle {
+        margin: 100px 0 70px 0;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .txtContent1>h2 {
+        font-size: 20px;
+    }
+
+    .mainPhoto1 {
+        margin: 30px 0 0 20px;
+    }
+
+    .txtContent1_ {
+        max-width: 62%;
+    }
+
+    .txtContent1>h2 {
+        margin: 30px 0px 10px 0px;
+    }
+
+    .txtContent2 {
+        font-size: 13px;
+    }
+
+    .PhotoGroup {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .photo,
+    .photo2,
+    .photo3 {
+        max-width: 30%;
+
+    }
+
+    .photo .photoTxt,
+    .photo2 .photoTxt,
+    .photo3 .photoTxt {
+        display: none;
+    }
+
+    .photo3 {
+        margin-top: 10px;
+    }
+
+    .t-top-information__inner {
+        padding: 40px 48px 44px 35px;
+    }
+
+    .t-top-information__content {
+        padding: 28px 20px;
+    }
+
+    .cardHead {
+        font-size: 26px;
+        margin: 80px 0;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .intoduceTitle.sd {
+        font-size: 1.6rem;
+    }
+
+    .heard-img1,
+    .heard-img2,
+    .r_img1,
+    .r_img2,
+    .r_img3 {
+        width: 100%;
+    }
+
+    .card h2 {
+        font-size: 18px;
+    }
+
+    .card p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:520px) {
+    #header {
+        display: flex;
+        left: 1px;
+        right: -1px;
+        display: flex;
+        left: 1px;
+        right: -1px;
+        box-shadow: none;
+        display: flex;
+        flex: none;
+        height: auto;
+        left: 0px;
+        margin: 80px 0px 0px 0px;
+        right: 0px;
+        top: -80px;
+        width: 93%;
+        max-width: 100%;
+    }
+
+    .nav-contanier {
+        display: flex;
+        height: 50px;
+        max-width: 100%;
+    }
+
+    .nav-brand {
+        display: flex;
+        margin: 0px 8px 0px 0px;
+        padding: 0px 0px 0px 8px;
+        max-width: calc(100% - 8px);
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+        width: auto;
+        max-width: calc(100% - 120px);
+    }
+
+    .nav-brand img {
+        flex: none;
+        width: 40px;
+        max-width: 100%;
+        flex: none;
+        width: 40px;
+        max-width: 100%;
+        flex: none;
+        width: 50px;
+        max-width: 100%;
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        width: 20%;
+        max-width: 20%;
+    }
+
+    .nav-brand .txt_h2 {
+        font-size: 18px;
+        letter-spacing: 0.05em;
+        line-height: 1.2;
+        margin: 0px 0px 2px 0px;
+        padding: 2px 8px 0px;
+        max-width: 100%;
+        font-size: 16px;
+    }
+
+    .nav-brand .txt_p {
+        font-size: 13px;
+        letter-spacing: 0.05em;
+        line-height: 1.2;
+        padding: 0px 8px 0px;
+        font-size: 16px;
+    }
+
+    .nav-schedule .nav-infor {
+        line-height: 1.3;
+        font-size: 12px;
+    }
+
+    .menuBtn {
+        display: flex;
+    }
+
+    .menuBtn .menuTxt {
+        font-family: var(--s-font-f7830e20);
+    }
+
+    .menuBtn .menuIcon {
+        display: flex;
+    }
+
+    .slider-content {
+        max-width: 64%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 32%;
+        margin: 41px 0 0 0;
+    }
+    
+    .lp-content{
+        padding:20px 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .lp-left{
+        max-width: 30%;
+    }
+    .lp-left li{
+        margin-bottom: 25px;
+    }
+    .lp-right{
+        max-width: 68%;
+    }
+    .lp-right p, .lp-left li{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .doctors-intro {
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .slider-content {
+        max-width: 64%;
+        width: 100%;
+    }
+    .simple-slider {
+        position: relative;
+        width: 90%;
+        max-width: 28%;
+        margin: 10px 0 0 0;
+    }
+
+    .txtContent2 {
+        font-size: 12px;
+    }
+
+    .PhotoGroup {
+        margin: 0px 0px 0px 0px;
+    }
+    .t-top-information__title {
+        font-size: 24px;
+    }
+
+    .t-top-information__inner {
+        padding: 30px 38px 34px 25px;
+        padding: 25px 32px 28px 20px;
+    }
+
+    .t-top-information__content {
+        padding: 18px 10px;
+    }
+
+    .c-box__title {
+        font-size: 16px;
+    }
+
+    .c-link-button {
+        font-size: 14px;
+        padding: 8px 16px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .c-link-button i {
+        margin-bottom: 4px;
+    }
+
+    .qa-section {
+        max-width: 100%;
+    }
+
+    .qa-question,
+    .qa-answer {
+        font-size: 15px;
+        padding: 12px 16px;
+    }
+
+    .qa-left img,
+    .qa-right img {
+        width: 35px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+
+    .nav-contanier {
+        display: flex;
+        height: 50px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .txtContent1>h2 {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    
+    .txtContent2 {
+        font-size: 12px;
+    }
+    .doctors-intro{
+        margin: 18px 0 0 0;
+        font-size: 16px;
+    }
+    .mainPhoto1 {
+        margin: 0 0 20px 0;
+    }
+
+    .txtContent1>h2 {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .txtContent2 {
+        font-size: 10px;
+        line-height: 1.6;
+    }
+    .intoduceTitle {
+        margin: 40px 0 30px 0;
+    }
+    .heard-img1, .heard-img2, .r_img1, .r_img2, .r_img3 {
+        width: 80%;
+    }
+    .nav-brand img {
+        flex: none;
+        width: 50px;
+        max-width: 100%;
+    }
+
+    .nav-brand .txt_h2 {
+        font-size: 12px;
+    }
+
+    .nav-brand .txt_p {
+        font-size: 12px;
+    }
+
+    .nav-infor .inforTxt1 {
+        display: flex;
+        flex: none;
+        height: auto;
+        margin: 0px 0px 0px 0px;
+        width: 50px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .mainPhoto1 {
+        margin: 0 0 0 0;
+    }
+    .mainPhoto {
+        max-width: 30%;
+    }
+    .slider-content {
+        max-width: 70%;
+    }
+    .txtContent1>h2 {
+        font-size: 19px;
+        font-weight: 700;
+    }
+
+    .intoduceTitle {
+        margin: 70px 0 50px 0;
+    }
+
+    .txtContent1>h2 {
+        margin: 8px 0px 0px 0px;
+    }
+
+    .intoduceTitle,
+    .cardHead {
+        font-size: 20px;
+    }
+    .doctors-intro{
+        margin: 10px 0 0 0;
+        font-size: 16px;
+    }
+    .intoduceTitle {
+        margin: 40px 0 28px 0;
+    }
+
+    .heard-img1,
+    .heard-img2,
+    .r_img1,
+    .r_img2,
+    .r_img3 {
+        width: 80%;
+    }
+
+    .txtContent2 {
+        font-size: 10px;
+    }
+
+    .PhotoGroup {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .photo2 {
+        margin: 10px 0 0 0;
+    }
+
+    .photo,
+    .photo2,
+    .photo3 {
+        max-width: 30%;
+    }
+
+    .cardHead {
+        font-size: 21px;
+        margin: 80px 0;
+    }
+    .card img {
+        width: 80%;
+        height: 178px;
+    }
+    .card_img1,.card_img2, .card_img3, .card_img4, .card_img5{
+        width: 100%;
+    }
+    .t-top-information__inner {
+        padding: 24px 14px 28px 14px;
+        border-radius: 0px 50px 60px 0px;
+    }
+
+    .t-top-information__content {
+        padding: 10px 10px;
+    }
+    .lp-content{
+        padding:20px 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .lp-left{
+        max-width: 30%;
+    }
+    .lp-left li{
+        margin-bottom: 20px;
+    }
+    .lp-right{
+        max-width: 68%;
+    }
+    .lp-right p, .lp-left li{
+        font-size: 12px;
+    }
+
+    .accessContent-header .hospitalName {
+        font-size: 24px;
+    }
+
+    .location {
+        max-width: 100%;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:375px) {
+
+ .txtContent1>h2 {
+        font-size: 17px;
+        margin: 10px 0px 0px 0px;
+    } 
+
+    .txtContent1 {
+        max-width: 100%;
+    } 
+    .intoduceTitle,
+    .cardHead {
+        font-size: 20px;
+    }
+    .doctors-intro{
+        margin: 10px 0 0 0;
+        font-size: 14px;
+    }
+    .mainPhoto {
+        max-width: 30%;
+    }
+    .slider-content {
+        max-width: 70%;
+    }
+    .c-box__detail {
+        padding: 9px;
+    }
+
+    .lp-content{
+        padding:20px 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .lp-left{
+        max-width: 30%;
+    }
+    .lp-left li{
+        margin-bottom: 21px;
+    }
+    .lp-right{
+        max-width: 68%;
+    }
+    .lp-right p, .lp-left li{
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    .txtContent1 {
+        max-width: 100%;
+    }
+
+    .txtContent2 {
+        max-width: 54%;
+    }
+
+    .txtContent1>h2 {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .intoduceTitle,
+    .cardHead {
+        font-size:16px;
+    }
+    .doctors-intro{
+        margin: 10px 0 0 0;
+        font-size: 12px;
+    }
+    .mainPhoto1 {
+        margin: 0 0 20px 0;
+    }
+
+    .txtContent1>h2 {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .txtContent2 {
+        font-size: 10px;
+        line-height: 1.6;
+    }
+
+    .t-top-information__title {
+        font-size: 20px;
+    }
+
+    .c-box__detail {
+        padding: 10px 23px;
+    }
+
+    .cardHead {
+        font-size: 20px;
+        margin: 80px 0;
+    }
+
+    .lp-content{
+        padding:20px 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .lp-left{
+        max-width: 30%;
+    }
+    .lp-left li{
+        margin-bottom: 20px;
+    }
+    .lp-right{
+        max-width: 68%;
+    }
+    .lp-right p, .lp-left li{
+        font-size: 10px;
+    }
+    .access {
+        max-width: 100%;
+        padding: 0px 0 0 0;
+    }
+    .accessContent-header .hospitalName {
+        font-size: 22px;
+    }
+    .accessInfor {
+        width: 100%;
+        max-width: 80%;
+        font-size: 16px;
+    }
+}
