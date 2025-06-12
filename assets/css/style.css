@@ -85,6 +85,8 @@ body {
     top: 0px;
     width: 100%;
     max-width: 100%;
+    z-index: 1000;
+
 }
 
 .insert {
