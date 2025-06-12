@@ -1,6 +1,7 @@
-html, body{
+html,
+body {
     height: auto;
-  overflow: auto !important;
+    overflow: auto !important;
 }
 
 .main {
@@ -96,7 +97,6 @@ html, body{
     margin-top: 32px;
     margin-bottom: 15px;
 }
-
 
 .txt1 {
     font-size: 20px;
@@ -244,7 +244,6 @@ html, body{
     margin-bottom: 8px;
 }
 
-/* 本文（単文） */
 .doc-text {
     margin: 4px 0 12px;
     font-size: 20px;
@@ -256,7 +255,6 @@ html, body{
 
 }
 
-/* リスト（（１） … ） */
 .doc-list {
     list-style: none;
     counter-reset: arabicCounter;
@@ -286,7 +284,6 @@ html, body{
     line-height: 1.6;
 }
 
-/* 署名欄風アンダーライン */
 .doc-sign {
     font-size: 20px;
     color: #282828;
@@ -304,7 +301,6 @@ html, body{
 
 
 /* end */
-/* ─────────  block container  ───────── */
 .doc-business {
     font-size: 20px;
     /* same as screenshot */
@@ -312,25 +308,20 @@ html, body{
     margin-top: 24px;
 }
 
-/* leading sentence */
 .doc-lead {
     margin-bottom: 20px;
 }
 
-/* 令和   年   月   日  */
 .doc-date {
     margin: 12px 0 28px;
     letter-spacing: 0.05em;
 
 }
 
-/* ─────────  biz info area  ───────── */
 .biz-block {
-    /* margin-left: 16.5em; */
     margin: auto;
 }
 
-/* each row behaves like table-row */
 .biz-row {
     display: flex;
     align-items: flex-start;
@@ -338,13 +329,11 @@ html, body{
     margin: 26px 0;
 }
 
-/* left-hand labels */
 .biz-label {
     min-width: 5em;
     white-space: nowrap;
 }
 
-/* right-hand values */
 .biz-value {
     flex: 1;
 }
@@ -356,8 +345,6 @@ html, body{
 }
 
 /* ======================   */
-
-/* ─────────  全体ブロック  ───────── */
 .doc-agreement {
     font-size: 20px;
     line-height: 1.9;
@@ -374,18 +361,14 @@ html, body{
     letter-spacing: 0.05em;
 }
 
-
 .sign-block {
-    /* margin-left: 16.5em; */
     margin: auto;
 }
-
 
 .role-label {
     font-weight: 700;
     margin: 14px 0 6px;
 }
-
 
 .field-row {
     display: flex;
@@ -394,12 +377,10 @@ html, body{
     margin: 10px 0 0 26px;
 }
 
-
 .field-label {
     min-width: 3em;
     white-space: nowrap;
 }
-
 
 .field-line {
     display: inline-block;
@@ -424,6 +405,7 @@ html, body{
 
 /* Responsive Design */
 @media screen and (max-width: 1024px) {
+
     /* scroll */
     .table-basic {
         width: 100%;
@@ -434,7 +416,7 @@ html, body{
         font-family: var(--s-font-b6ace02c);
         line-height: 1.6;
     }
-    
+
     .table-basic th,
     .table-basic td {
         border: 1px solid #888;
@@ -442,164 +424,158 @@ html, body{
         text-align: center;
         vertical-align: middle;
     }
-    
+
     .table-basic th {
         background-color: #f1f1f1;
         font-weight: bold;
         white-space: nowrap;
     }
-    
+
     .table-scroll {
         overflow-x: auto;
         width: 100%;
     }
 
     /* ============== */
-    .about{
+    .about {
         width: 80%;
-    max-width: 90%;
+        max-width: 90%;
     }
+
     .doc-title {
         font-size: 36px;
     }
-    
+
     .docPart-title {
         font-size: 16px;
     }
-    
-    /* docpart 1 */ 
-    
+
+    /* docpart 1 */
+
     .docTable {
         font-size: 12px;
     }
-    
+
     .subheading {
         font-size: 16px;
         font-size: 16px;
         margin-top: 32px;
         margin-bottom: 15px;
     }
-    
-    
+
+
     .txt1 {
         font-size: 16px;
         font-size: 16px;
     }
-    
+
     /* 3 */
-    
+
     .docTable3 {
         margin: 16px 0;
         font-size: 20px;
-    } 
-    
+    }
+
     .docTable3 th,
     .docTable3 td {
         font-size: 16px;
     }
-    
+
     .consultList {
         font-size: 16px;
         width: 100%;
         margin: 0;
     }
-    
+
     .clinicContacts {
         font-size: 16px;
         margin-top: 16px;
     }
-    
+
     /* 4 */
-    
+
     .doc-subnote {
         font-size: 16px;
         margin-bottom: 16px;
     }
-    
+
     .table-basic {
         margin: 20px 0;
         font-size: 16px;
     }
-    
+
     .table-basic th,
     .table-basic td {
         padding: 6px 10px;
     }
-    
+
     .doc-notes {
         font-size: 16px;
         margin-top: 24px;
         padding-left: 20px;
     }
-    
+
     /* 5 */
-    
+
     .doc-title {
         margin-bottom: 8px;
     }
-    
+
     .doc-text {
         margin: 4px 0 12px;
         font-size: 16px;
     }
-    
-    /* リスト（（１） … ） */
+
     .doc-list {
         margin-left: 2em;
     }
-    
+
     .doc-list li {
         margin-bottom: 20px;
         font-size: 16px;
         width: 70%;
     }
-    
-    /* 署名欄風アンダーライン */
+
     .doc-sign {
         font-size: 16px;
     }
-    
+
     .doc-choice {
         padding-left: 1.5em;
     }
-    
-    /* ─────────  block container  ───────── */
+
     .doc-business {
         font-size: 16px;
         margin-top: 24px;
     }
-    
-    /* leading sentence */
+
     .doc-lead {
         margin-bottom: 20px;
     }
-    
+
     .doc-date {
         margin: 12px 0 28px;
     }
-    
-   
-    /* each row behaves like table-row */
+
+
     .biz-row {
         gap: 3.5em;
         margin: 26px 0;
     }
-    
-    /* left-hand labels */
+
     .biz-label {
         min-width: 5em;
     }
-    
+
     .biz-seal {
         padding-right: 3.5em;
     }
-    
-    /* ─────────  全体ブロック  ───────── */
+
     .doc-agreement {
         font-size: 16px;
         margin-top: 32px;
     }
-    
+
 }
 
 @media screen and (max-width: 768px) {
@@ -607,153 +583,146 @@ html, body{
         padding: 40px 24px 32px;
         width: 94%;
     }
+}
 
-   }
+@media screen and (max-width: 425px) {
 
-    @media screen and (max-width: 425px) {   
-        /* ============== */
-        .about{
-            width: 80%;
+    /* ============== */
+    .about {
+        width: 80%;
         max-width: 100%;
-        }
-        .doc-title {
-            font-size: 16px;
-        }
-        
-        .docPart-title {
-            font-size: 12px;
-        }
-        
-        /* docpart 1 */ 
-        
-        .docTable {
-            font-size: 12px;
-        }
-        
-        .subheading {
-            font-size: 12px;
-            margin-top: 14px;
-            margin-bottom: 6px;
-        }
-        
-        
-        .txt1 {
-            font-size: 12px;
-        }
-        
-        /* 3 */
-        
-        .docTable3 {
-            margin: 6px 0;
-            font-size: 14px;
-        } 
-        
-        .docTable3 th,
-        .docTable3 td {
-            font-size: 12px;
-        }
-        
-        .consultList {
-            font-size: 12px;
-            width: 100%;
-            margin: 0;
-        }
-        
-        .clinicContacts {
-            font-size: 12px;
-            margin-top: 6px;
-        }
-        
-        /* 4 */
-        
-        .doc-subnote {
-            font-size: 12px;
-            margin-bottom: 6px;
-        }
-        
-        .table-basic {
-            margin: 10px 0;
-            font-size: 12px;
-        }
-        
-        .table-basic th,
-        .table-basic td {
-            padding: 6px 10px;
-        }
-        
-        .doc-notes {
-            font-size: 12px;
-            margin-top: 12px;
-            padding-left: 20px;
-        }
-        
-        /* 5 */
-        
-        .doc-title {
-            margin-bottom: 8px;
-        }
-        
-        .doc-text {
-            margin: 0px 0 3px;
-            font-size: 12px;
-        }
-        
-        /* リスト（（１） … ） */
-        .doc-list {
-            margin-left: 0.2em;
-        }
-        
-        .doc-list li {
-            margin-bottom: 6px;
-            font-size: 12px;
-            width: 70%;
-        }
-        
-        /* 署名欄風アンダーライン */
-        .doc-sign {
-            font-size: 12px;
-        }
-        
-        .doc-choice {
-            padding-left: 0.4em;
-        }
-        
-        /* ─────────  block container  ───────── */
-        .doc-business {
-            font-size: 12px;
-            margin-top: 12px;
-        }
-        
-        /* leading sentence */
-        .doc-lead {
-            margin-bottom: 00px;
-        }
-        
-        .doc-date {
-            margin: 4px 0 10px;
-        }
-        
-       
-        /* each row behaves like table-row */
-        .biz-row {
-            gap: 1em;
-            margin: 10px 0;
-        }
-        
-        /* left-hand labels */
-        .biz-label {
-            min-width: 5em;
-        }
-        
-        .biz-seal {
-            padding-right: 0.2em;
-        }
-        
-        /* ─────────  全体ブロック  ───────── */
-        .doc-agreement {
-            font-size: 12px;
-            margin-top: 16px;
-        }
-        
-    
-   }
+    }
+
+    .doc-title {
+        font-size: 16px;
+    }
+
+    .docPart-title {
+        font-size: 12px;
+    }
+
+    /* docpart 1 */
+
+    .docTable {
+        font-size: 12px;
+    }
+
+    .subheading {
+        font-size: 12px;
+        margin-top: 14px;
+        margin-bottom: 6px;
+    }
+
+
+    .txt1 {
+        font-size: 12px;
+    }
+
+    /* 3 */
+
+    .docTable3 {
+        margin: 6px 0;
+        font-size: 14px;
+    }
+
+    .docTable3 th,
+    .docTable3 td {
+        font-size: 12px;
+    }
+
+    .consultList {
+        font-size: 12px;
+        width: 100%;
+        margin: 0;
+    }
+
+    .clinicContacts {
+        font-size: 12px;
+        margin-top: 6px;
+    }
+
+    /* 4 */
+
+    .doc-subnote {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+
+    .table-basic {
+        margin: 10px 0;
+        font-size: 12px;
+    }
+
+    .table-basic th,
+    .table-basic td {
+        padding: 6px 10px;
+    }
+
+    .doc-notes {
+        font-size: 12px;
+        margin-top: 12px;
+        padding-left: 20px;
+    }
+
+    /* 5 */
+
+    .doc-title {
+        margin-bottom: 8px;
+    }
+
+    .doc-text {
+        margin: 0px 0 3px;
+        font-size: 12px;
+    }
+
+    .doc-list {
+        margin-left: 0.2em;
+    }
+
+    .doc-list li {
+        margin-bottom: 6px;
+        font-size: 12px;
+        width: 70%;
+    }
+
+    .doc-sign {
+        font-size: 12px;
+    }
+
+    .doc-choice {
+        padding-left: 0.4em;
+    }
+
+    .doc-business {
+        font-size: 12px;
+        margin-top: 12px;
+    }
+
+    .doc-lead {
+        margin-bottom: 00px;
+    }
+
+    .doc-date {
+        margin: 4px 0 10px;
+    }
+
+    .biz-row {
+        gap: 1em;
+        margin: 10px 0;
+    }
+
+    .biz-label {
+        min-width: 5em;
+    }
+
+    .biz-seal {
+        padding-right: 0.2em;
+    }
+
+    .doc-agreement {
+        font-size: 12px;
+        margin-top: 16px;
+    }
+
+
+}
